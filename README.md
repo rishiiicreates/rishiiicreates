@@ -1,6 +1,4 @@
 # HRISHIKESH YADAV — rishiicreates@gmail.com
-
-AI & Machine Learning | Cloud Architecture | Full-Stack Development
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0d1117,30363d&height=220&section=header&text=Hrishikesh%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20-%20Cloud%20Architecture%20-%20Full-Stack%20Development&descAlignY=62&v=3" width="100%" alt="Header banner"/>
