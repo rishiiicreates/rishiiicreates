@@ -1,13 +1,6 @@
 # HRISHIKESH YADAV — rishiicreates@gmail.com
 
 AI & Machine Learning | Cloud Architecture | Full-Stack Development
-
-### Tech Stack
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
-</p>
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=161b22,21262d,0d1117&height=220&section=header&text=Hrishikesh%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20Cpp%20Survivor&descAlignY=62&animation=twinkling" width="100%" alt="Header banner"/>
@@ -35,6 +28,13 @@ AI & Machine Learning | Cloud Architecture | Full-Stack Development
 </div>
 
 ---
+
+
+### Tech Stack
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
+</p>
+
 
 ## 🌌 The Architecture
 
