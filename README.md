@@ -3,7 +3,8 @@
 AI & Machine Learning | Cloud Architecture | Full-Stack Development
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=161b22,21262d,0d1117&height=220&section=header&text=Hrishikesh%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20-%20Cloud%20Architecture%20-%20Full-Stack%20Development&descAlignY=62&animation=twinkling&v=2" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0d1117,30363d&height=220&section=header&text=Hrishikesh%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20-%20Cloud%20Architecture%20-%20Full-Stack%20Development&descAlignY=62&v=3" width="100%" alt="Header banner"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=980&lines=Architecting+intelligent+systems;Fighting+C%2B%2B+segfaults+at+3+AM;Engineering+scalable+logic;Pushing+the+limits+of+what+my+compiler+can+handle)](https://git.io/typing-svg)
 
