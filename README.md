@@ -1,4 +1,4 @@
-<div align="center"
+
 
 I am an 18-year-old CSE undergrad at SRMIST trying to figure out how to build things without setting my laptop on fire. It is going exactly as well as you'd expect. (._.)
 
@@ -12,6 +12,7 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
 
 
 
+<div align="center"
 
 ### Tech Stack
 
