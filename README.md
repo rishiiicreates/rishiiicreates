@@ -5,6 +5,12 @@ Currently, I am falling down the absolute rabbit hole of LLM systems. trying to 
 When I'm not fighting with deep learning math, I am usually duct-taping Next.js and React projects together (stuff like DashMetrics, Nudge, FlowGrid). I write code, it breaks, I panic, I fix it, I forget how I fixed it. That's the whole cycle.
 
 
+
+
+
+
+
+
 ### Tech Stack
 <div align="center"
 <p align="left"> 
