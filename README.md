@@ -16,7 +16,7 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
 
 ### Tech Stack
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
 </p>
 
