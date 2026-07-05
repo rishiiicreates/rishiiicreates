@@ -20,7 +20,6 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
 </p>
 
- Note: If you look at my older repos, please be kind. I didn't know what a clean commit history was and I was just mashing buttons.
 
   
 <a href="https://rishiicreates.vercel.app/">
@@ -40,3 +39,7 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
 </a>
 
 </div>
+
+
+
+* Note: If you look at my older repos, please be kind. I didn't know what a clean commit history was and I was just mashing buttons.
