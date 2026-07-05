@@ -9,7 +9,8 @@
 
  Note: If you look at my older repos, please be kind. I didn't know what a clean commit history was and I was just mashing buttons.
 
- 
+<div align="center"
+  
 <a href="https://rishiicreates.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&labelColor=0d1117" alt="Portfolio" />
 </a>
