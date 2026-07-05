@@ -1,6 +1,6 @@
 I am an 18-year-old CSE undergrad at SRMIST trying to figure out how to build things without setting my laptop on fire. It is going exactly as well as you'd expect. (._.)
 
-Currently, I am falling down the absolute rabbit hole of LLM systems. I went from "haha let's just use the Groq API" to suddenly trying to understand tensor parallelism, SwiGLU FFNs, and speculative decoding. My brain is basically just soup at this point T_T
+Currently, I am falling down the absolute rabbit hole of LLM systems. trying to understand tensor parallelism, SwiGLU FFNs, and speculative decoding. My brain is basically just soup at this point T_T
 
 When I'm not fighting with deep learning math, I am usually duct-taping Next.js and React projects together (stuff like DashMetrics, Nudge, FlowGrid). I write code, it breaks, I panic, I fix it, I forget how I fixed it. That's the whole cycle.
 
