@@ -1,3 +1,5 @@
+<div align="justify"
+
 I am an 18-year-old CSE undergrad at SRMIST trying to figure out how to build things without setting my laptop on fire. It is going exactly as well as you'd expect. (._.)
 
 Currently, I am falling down the absolute rabbit hole of LLM systems. trying to understand tensor parallelism, SwiGLU FFNs, and speculative decoding. My brain is basically just soup at this point T_T
@@ -12,7 +14,7 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
 
 
 ### Tech Stack
-<div align="center"
+
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
 </p>
