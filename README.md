@@ -1,6 +1,6 @@
 
 
-I am an 18-year-old CSE undergrad, trying to figure out how to build things without setting my laptop on fire. It is going exactly as well as you'd expect. (._.)
+I am an 19-year-old CSE undergrad, trying to figure out how to build things without setting my laptop on fire. It is going exactly as well as you'd expect. (._.)
 
 Currently, I am falling down the absolute rabbit hole of LLM systems. trying to understand tensor parallelism, SwiGLU FFNs, and speculative decoding. My brain is basically just soup at this point T_T
 
