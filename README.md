@@ -34,6 +34,11 @@ When I'm not fighting with deep learning math, I am usually duct-taping Next.js 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiicreates&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
 </div>
 
 ---
