@@ -8,26 +8,6 @@ mostly down the rabbit hole of verifiable llm systems, distributed inference, te
 
 <br />
 
-<p align="center">
-  <a href="https://rishiicreates.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&labelColor=0d1117" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/rishiiicreates">
-    <img src="https://komarev.com/ghpvc/?username=rishiiicreates&label=Profile+Views&color=0077D4&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/rishiiicreates?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievements-4%20Unlocked-a855f7?style=for-the-badge&logo=github&labelColor=0d1117" alt="Achievements" />
-  </a>
-  <a href="https://github.com/rishiiicreates?tab=stars">
-    <img src="https://img.shields.io/github/stars/rishiiicreates?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="Stars" />
-  </a>
-  <a href="https://github.com/rishiiicreates?tab=followers">
-    <img src="https://img.shields.io/github/followers/rishiiicreates?label=Followers&style=for-the-badge&logo=github&color=38bdf8&labelColor=0d1117" alt="Followers" />
-  </a>
-  <a href="https://github.com/rishiiicreates">
-    <img src="https://img.shields.io/badge/Vibe-Chaotic-f43f5e?style=for-the-badge&labelColor=0d1117" alt="Vibe" />
-  </a>
-</p>
 
 ### things i smash on my keyboard
 
