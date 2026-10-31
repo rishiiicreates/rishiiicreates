@@ -2,7 +2,7 @@
 
 # hey, i am rishii
 
-19-year-old cse undergrad trying to build systems without setting my macbook on fire. it is going about as well as you would expect (._.)
+19-year-old cse undergrad trying to build systems without setting my laptop on fire. it is going about as well as you would expect (._.)
 
 mostly down the rabbit hole of verifiable llm systems, distributed inference, tensor parallelism, and speculative decoding right now. when my brain turns into soup from deep learning math, i duct tape react and next.js apps together until the console stops screaming. i write code, it breaks, i panic, i fix it, i forget how i fixed it. that is the entire lifestyle.
 
