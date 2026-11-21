@@ -31,10 +31,10 @@ Systems programmer & software engineer working at the intersection of browser en
 uvx --from git+https://github.com/rishiiicreates/rawfy.git#subdirectory=python rawfy https://example.com
 ```
 
-#### [Solana Validator Telemetry & Block Ordering](https://github.com/rishiiicreates/solana-validator-block-ordering)
-*Empirical measurement suite analyzing validator scheduling & block production latency*
-- Analyzed confirmed Mainnet-Beta blocks across 6 top-tier validators across Agave, Jito-Solana, and Firedancer client implementations.
-- Benchmarked priority fee dynamics, BankingStage DAG scheduling, account lock conflict graphs, and MEV bundle preemption with reproducible data pipelines.
+#### [Shiro — Academic AI & RAG](https://github.com/rishiiicreates/shiro-academic-ai)
+*Context-aware academic intelligence engine and syllabus retrieval system*
+- Specialized retrieval-augmented generation (RAG) platform indexing semester coursework, lecture materials, and academic syllabi.
+- Features citation-backed doubt solving, multi-modal note processing, and structured study workflows. Live at [chiroshiro.vercel.app](https://chiroshiro.vercel.app).
 
 ---
 
