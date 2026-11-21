@@ -1,33 +1,50 @@
-<div align="center">
+# Hrishikesh Yadav (Rishii)
 
-# hey, i am rishii
+Systems programmer & software engineer working at the intersection of browser engines, verifiable AI systems, distributed inference, and high-performance data runtimes.
 
-19-year-old cse undergrad trying to build systems without setting my laptop on fire. it is going about as well as you would expect (._.)
+[Portfolio](https://rishiicreates.vercel.app) &nbsp;•&nbsp; [Twitter / X](https://x.com/rishiicreates) &nbsp;•&nbsp; [Email](mailto:rishiicreates@gmail.com)
 
-mostly down the rabbit hole of verifiable llm systems, distributed inference, tensor parallelism, and speculative decoding right now. when my brain turns into soup from deep learning math, i duct tape react and next.js apps together until the console stops screaming. i write code, it breaks, i panic, i fix it, i forget how i fixed it. that is the entire lifestyle.
+---
 
-<br />
+### Upstream Open Source Contributions
 
+#### [Servo](https://github.com/servo/servo) — Next-Generation Web Rendering Engine in Rust
+- **WebGL2 Texture Bindings ([#49632](https://github.com/servo/servo/pull/49632))**: Handled errors from `active_texture_slot` to eliminate runtime panics on invalid enum queries in WebGL1 contexts, paired with comprehensive Web Platform Tests (WPT).
+- **Layout Engine Modernization ([#49415](https://github.com/servo/servo/pull/49415))**: Modernized float geometry and layout test suites, migrating deprecated standard library numeric primitives to modern Rust associated constants.
+- **Script & DOM Bindings ([#49637](https://github.com/servo/servo/pull/49637), [#49490](https://github.com/servo/servo/pull/49490), [#49409](https://github.com/servo/servo/pull/49409), [#49328](https://github.com/servo/servo/pull/49328))**: Hardened DOM-to-JS conversions across `Window`, `Document`, and `ServiceWorkerGlobalScope` by threading contextual JS execution contexts and blob URL resolution.
+- **IFrame Memory Safety ([#50115](https://github.com/servo/servo/pull/50115))**: Migrated `HTMLIFrameElement` internal mutation paths to `safe_borrow_mut` for borrow-checker safety under dynamic DOM script execution.
 
-### things i smash on my keyboard
+#### [Apache DataFusion](https://github.com/apache/datafusion) — Extensible SQL Query Engine in Rust & Arrow
+- **Columnar Metadata Preservation ([#26938](https://github.com/apache/datafusion/pull/26938))**: Implemented schema metadata and extension type propagation (UUID, JSON) across `MAX` and `MIN` accumulator implementations in `datafusion-functions-aggregate`, verified via sqllogictest suites.
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,pytorch,tailwind,fastapi,postgres,docker,aws,git,linux" />
-</p>
+---
 
-<br />
+### Featured Systems & Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiiicreates&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+#### [Rawfy](https://github.com/rishiiicreates/rawfy)
+*Universal web perception engine for AI agents*
+- High-performance engine written in Rust 2021 that converts arbitrary web documents and dynamic DOM into clean, agent-digestible Web Semantic Markdown (WSM), structured JSON, and interactive element maps.
+- Native Astral `uvx` zero-setup runner for instant one-line CLI execution without local builds.
+- Featured on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/rishiiicreates) as an open-source reference solution for AI coding workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
+```bash
+uvx --from git+https://github.com/rishiiicreates/rawfy.git#subdirectory=python rawfy https://example.com
+```
 
-<br />
+#### [Solana Validator Telemetry & Block Ordering](https://github.com/rishiiicreates/solana-validator-block-ordering)
+*Empirical measurement suite analyzing validator scheduling & block production latency*
+- Analyzed confirmed Mainnet-Beta blocks across 6 top-tier validators across Agave, Jito-Solana, and Firedancer client implementations.
+- Benchmarked priority fee dynamics, BankingStage DAG scheduling, account lock conflict graphs, and MEV bundle preemption with reproducible data pipelines.
 
-if you are digging through my older repos, please close your eyes and pretend you did not see anything. i did not know what git hygiene was and was just aggressively mashing buttons.
+#### [Agent Grid Wars](https://github.com/rishiiicreates/agent-grid-wars)
+*Turn-based 7x7 matrix grid strategy arena for autonomous agents*
+- Full-stack adversarial game arena featuring real-time state synchronization, procedural Web Audio synthesis, REST simulation API, and standalone Python RL agent harness.
 
-</div>
+---
+
+### Core Focus & Toolkit
+
+- **Systems & Engines**: Rust (2021/2024), C++, WebAssembly, Browser Engines (Servo, Chromium internals), Linux Systems Programming
+- **Data & Distributed Systems**: Apache Arrow, Apache DataFusion, High-Throughput Columnar Execution, Distributed Inference, Speculative Decoding
+- **AI Infrastructure & Runtimes**: Verifiable LLM Systems, Agent Tooling / MCP Protocols, Tensor Parallelism, PyTorch
+- **Web & Interface Architecture**: TypeScript, React, Next.js, Node.js, Tailwind CSS
