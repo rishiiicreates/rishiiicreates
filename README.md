@@ -36,10 +36,6 @@ uvx --from git+https://github.com/rishiiicreates/rawfy.git#subdirectory=python r
 - Analyzed confirmed Mainnet-Beta blocks across 6 top-tier validators across Agave, Jito-Solana, and Firedancer client implementations.
 - Benchmarked priority fee dynamics, BankingStage DAG scheduling, account lock conflict graphs, and MEV bundle preemption with reproducible data pipelines.
 
-#### [Agent Grid Wars](https://github.com/rishiiicreates/agent-grid-wars)
-*Turn-based 7x7 matrix grid strategy arena for autonomous agents*
-- Full-stack adversarial game arena featuring real-time state synchronization, procedural Web Audio synthesis, REST simulation API, and standalone Python RL agent harness.
-
 ---
 
 ### Core Focus & Toolkit
